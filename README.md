@@ -1,4 +1,4 @@
-# POO
+# CadProduto
 Delphi com Programação Orientada a Objeto
 
 Cadastro de Produto, inicializando estudos com POO em Delphi.
